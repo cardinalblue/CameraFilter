@@ -134,4 +134,9 @@
         android:title="JFAVoronoi"
         app:showAsAction="never"
         />
+    <item
+        android:id="@+id/filter21"
+        android:title="Comic"
+        app:showAsAction="never"
+    />
 </menu>
