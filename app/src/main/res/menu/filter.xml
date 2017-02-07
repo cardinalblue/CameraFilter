@@ -139,4 +139,9 @@
         android:title="Comic"
         app:showAsAction="never"
     />
+    <item
+        android:id="@+id/filter22"
+        android:title="CrossFad"
+        app:showAsAction="never"
+    />
 </menu>
